@@ -24,7 +24,7 @@ This project provides a straightforward interface to showcase a restaurant menu.
 1. **Clone the repository:**
 
    ```bash
-   git clone  
+   git clone git@github.com:SadiMusa/phase-1-project.git
    ```
 
 2. **Install Dependencies:**
